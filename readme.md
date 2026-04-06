@@ -12,10 +12,10 @@
   </p>
   
   <p>
-    <img src="https://img.shields.io/github/stars/det-core/KnoxMD?style=for-the-badge&logo=github&color=yellow" />
-    <img src="https://img.shields.io/github/forks/det-core/KnoxMD?style=for-the-badge&logo=github&color=orange" />
-    <img src="https://img.shields.io/github/issues/det-core/KnoxMD?style=for-the-badge&logo=github&color=red" />
-    <img src="https://img.shields.io/github/last-commit/det-core/KnoxMD?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/github/stars/det-core/KnoxTele?style=for-the-badge&logo=github&color=yellow" />
+    <img src="https://img.shields.io/github/forks/det-core/KnoxTele?style=for-the-badge&logo=github&color=orange" />
+    <img src="https://img.shields.io/github/issues/det-core/KnoxTele?style=for-the-badge&logo=github&color=red" />
+    <img src="https://img.shields.io/github/last-commit/det-core/KnoxTele?style=for-the-badge&logo=github" />
   </p>
   
   <p>
@@ -53,8 +53,8 @@
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/det-core/KnoxMD.git
-cd KnoxMD
+git clone https://github.com/det-core/KnoxTele.git
+cd KnoxTele
 
 # 2. Install dependencies
 npm install
